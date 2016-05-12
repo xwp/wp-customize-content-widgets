@@ -1,4 +1,4 @@
-# wp-customize-content-widgets
+# Customize Content Widgets
 Extension to the Customize Posts and Shortcake plugins to add post/page-specific widget areas in content (an implementation of content blocks).
 
 Ideas for how to implement content blocks as widgets in the Customizer, powered by [Customize Posts](https://github.com/xwp/wp-customize-posts), [Shortcake](https://github.com/wp-shortcake/shortcake), and (ideally) [JS Widgets](https://github.com/xwp/wp-js-widgets):
