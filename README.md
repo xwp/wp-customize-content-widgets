@@ -16,6 +16,7 @@ For background, see:
 
 * [Customize Posts: Page Builder / Content Editor in Customizer](https://wordpress.org/support/topic/page-builder-content-editor-in-customizer?replies=11#post-8395850)
 * [Shortcake: Content Blocks: Shortcodes & Widgets](https://github.com/wp-shortcake/shortcake/issues/585)
+* [Add control which provides buttons to edit various sidebars](https://github.com/xwp/wp-customize-posts/issues/139)
 
 ## Page-Specific Sidebars Outside Content Area
 
